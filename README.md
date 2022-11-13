@@ -21,7 +21,7 @@ I'm a student of Computer Engineering and tech enthusiast. I love learning new t
 ## My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawaym&show_icons=true&theme=dracula&line_height=27&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawaym&langs_count=3&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawaym&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 <a href="https://www.linkedin.com/in/kawaym/">
